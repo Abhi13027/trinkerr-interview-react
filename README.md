@@ -22,5 +22,3 @@ BASE_URL: `http://3.109.141.224:5000`
     search_string as one of the query parameters and returns the data
     which matches the string. 
     ```
-`Note`
-You need to deploy your code to any of your preferred choice like Netlify, Vercel, Heroku etc.
