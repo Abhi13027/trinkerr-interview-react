@@ -8,7 +8,7 @@ You need to create the search functionality, where the user can search a desired
 You need to implement the problem statement in order. Only if you are done with problem statement `1`, you need to move the next one. All the very best.
 ### API Documentation
 
-BASE_URL: `http://3.109.141.224:5000`
+BASE_URL: `http://3.108.244.88:5000`
 
 1. `GET /api/user-access-token`
     ```
